@@ -1,7 +1,6 @@
 import React from "react";
 import { useState, useEffect, useRef } from "react";
 
-
 const NAVY = "#0a2540";
 const ORANGE = "#e8660a";
 const ORANGE_LIGHT = "#fff4ed";
